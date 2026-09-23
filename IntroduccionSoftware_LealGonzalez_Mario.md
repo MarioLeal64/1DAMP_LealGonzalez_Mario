@@ -1,4 +1,4 @@
-\# ¿Qué es un programa informático?
+## ¿Qué es un programa informático?
 
 
 
@@ -6,7 +6,7 @@ Un \*\*Programa informático\*\* es un conjunto de procesos informáticos realiz
 
 
 
-\# Diferencia entre código fuente, código objeto y código ejecutable.
+## Diferencia entre código fuente, código objeto y código ejecutable.
 
 
 
@@ -14,7 +14,7 @@ El \*\*código fuente\*\* es lo que escribe el propio programador, el \*\*códig
 
 
 
-\# Etapas del desarrollo del software
+## Etapas del desarrollo del software
 
 
 
