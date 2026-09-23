@@ -19,8 +19,8 @@ El \*\*código fuente\*\* es lo que escribe el propio programador, el \*\*códig
 
 
 Estas son 1. \*\*Análisis de Requisitos\*\*, en el que se investigan los requisitos del software, 2. \*\*Diseño\*\*, que es cuando se crea la estructura del software, 3. \*\*Implementación\*\*, que es la codificación del software según los requisitos del diseño, 4. \*\*Pruebas\*\*, que es la fase en la que se pone a prueba el software para asegurarse de que funciona perfectamente, y 5. \*\*Mantenimiento\*\*, que se resume en las actualizaciones que el software necesite posteriormente.
+(imagen%20programa%20informatico.png)
 
-&#x20;https://github.com/MarioLeal64/1DAMP\_LealGonz-lez\_Mario
 
-!\[Programa informático](imagen%20programa%20informatico.png)
 
+[Github](https://github.com/MarioLeal64/1DAMP\_LealGonz-lez\_Mario)
