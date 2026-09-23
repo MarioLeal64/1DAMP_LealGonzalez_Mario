@@ -22,3 +22,5 @@ Estas son 1. \*\*Análisis de Requisitos\*\*, en el que se investigan los requis
 
 &#x20;https://github.com/MarioLeal64/1DAMP\_LealGonz-lez\_Mario
 
+!\[Programa informático](imagen%20programa%20informatico.png)
+
